@@ -1,0 +1,5 @@
+body { font-family: Arial, sans-serif; padding: 20px; }
+h1 { color: #333; }
+#chat-container { margin-top: 20px; }
+#user-input { width: 80%; }
+button { padding: 8px 12px; }
